@@ -1,0 +1,66 @@
+.completed {
+  text-decoration: line-through;
+  list-style: disc;
+}
+
+textarea {
+  width: 100%;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  background-color: #ffed9f;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#form-div {
+  text-align: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form button {
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 6px;
+}
+
+#div-list {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+ul {
+  font-size: 1.3em;
+}
+
+li {
+  margin-top: 30px;
+  list-style: circle;
+  padding: 5px;
+  margin-left: 50px;
+  font-size: 1em;
+}
+
+li button {
+  margin-left: 15px;
+  padding: 5px;
+  background-color: #ffed9f;
+  border: none;
+}
+
+.deleted {
+  display: none;
+}
